@@ -3,7 +3,7 @@
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/thomasandersonbsl/faas-cli-dind?style=for-the-badge)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/thomasandersonbsl/faas-cli-dind?style=for-the-badge)
 
-Docker image with only FaaS-CLI and Docker in Docker! Useful for CI/CD of OpenFaaS functions.
+Docker image with [faas-cli](https://github.com/openfaas/faas-cli) and Docker in Docker! Useful for CI/CD of OpenFaaS functions.
 
 ## Usage with Gitlab CI
 
